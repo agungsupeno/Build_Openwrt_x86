@@ -1,2 +1,3 @@
 # Build_Openwrt_x86
-ha
+
+Jangan Lupa Sedia Kopi dan Nikmati setiap alur prosesnya kawan
