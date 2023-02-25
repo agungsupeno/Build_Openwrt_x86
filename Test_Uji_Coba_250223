@@ -30,7 +30,9 @@ uci commit uhttpd
 etc/init.d/uhttpd restart
 [ -d /usr/lib/php8 ] && [ ! -d /usr/lib/php ] && ln -sf /usr/lib/php8 /usr/lib/php
 
-make image PROFILE="friendlyarm_nanopi-r2s" \
+
+#radenku.com
+make image PROFILE="" \
 PACKAGES="-dnsmasq dnsmasq-full cgi-io libiwinfo libiwinfo-data libiwinfo-lua liblua \
 liblucihttp liblucihttp-lua libubus-lua lua luci luci-app-firewall luci-app-opkg \
 luci-base luci-lib-base luci-lib-ip luci-lib-jsonc luci-lib-nixio luci-mod-admin-full \
