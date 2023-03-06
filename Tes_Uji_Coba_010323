@@ -6,7 +6,7 @@ luci-mod-status luci-mod-system luci-proto-ipv6 luci-proto-ppp luci-ssl \
 luci-theme-material luci-theme-argon luci-theme-lightblue rpcd rpcd-mod-file rpcd-mod-iwinfo rpcd-mod-luci \
 rpcd-mod-rrdns uhttpd uhttpd-mod-ubus luci-compat \
 ath9k-htc-firmware btrfs-progs hostapd hostapd-utils kmod-ath kmod-ath9k-common \
-kmod-ath9k-htc kmod-cfg80211 kmod-crypto-acompress kmod-crypto-crc32c kmod-crypto-hash \
+kmod-ath9k kmod-ath9k-htc kmod-cfg80211 kmod-crypto-acompress kmod-crypto-crc32c kmod-crypto-hash \
 kmod-fs-btrfs kmod-mac80211 wireless-tools wpa-cli wpa-supplicant \
 kmod-rtl8192cu ttyd luci-app-ttyd usb-modeswitch comgt-ncm kmod-usb-serial-wwan luci-proto-ncm luci-proto-3g \
 kmod-usb-net kmod-usb-net-huawei-cdc-ncm kmod-usb-net-cdc-ether kmod-usb-acm kmod-usb-net-qmi-wwan \
