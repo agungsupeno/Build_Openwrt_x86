@@ -12,9 +12,8 @@ kmod-rtl8192cu usb-modeswitch comgt-ncm kmod-usb-serial-wwan luci-proto-ncm luci
 kmod-usb-net kmod-usb-net-huawei-cdc-ncm kmod-usb-net-cdc-ether kmod-usb-acm kmod-usb-net-qmi-wwan \
 kmod-usb-net-rndis kmod-usb-serial-qualcomm kmod-usb-net-sierrawireless kmod-usb-ohci kmod-usb-serial \
 kmod-nls-utf8 kmod-usb-serial-option kmod-usb-serial-sierrawireless kmod-usb-uhci kmod-usb-net-cdc-eem kmod-usb-net-cdc-subset kmod-usb2 \
-kmod-nls-base kmod-usb-core git git-http luci-app-openclash luci-app-zerotier luci-app-diskman \
-luci-app-adguardhome luci-app-ramfree luci-app-openvpn luci-app-vpnbypass luci-app-shutdown luci-app-openclash \
-luci-app-netdata luci-app-vnstat luci-app-wireguard \
+kmod-nls-base kmod-usb-core git git-http luci-app-zerotier luci-app-diskman \
+luci-app-netdata luci-app-vnstat \
 kmod-usb-net-ipheth kmod-usb-net-cdc-mbim usbmuxd libusbmuxd-utils libimobiledevice-utils usbutils \
 kmod-usb-net-asix kmod-usb-net-asix-ax88179 kmod-usb-net-dm9601-ether kmod-usb-net-hso kmod-usb-net-kalmia kmod-usb-net-kaweth \
 kmod-usb-net-mcs7830 kmod-usb-net-pegasus kmod-usb-net-pl kmod-usb-net-rtl8150 kmod-usb-net-rtl8152 kmod-usb-net-smsc95xx kmod-usb-net-sr9700" \
