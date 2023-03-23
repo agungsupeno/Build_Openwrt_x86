@@ -18,3 +18,22 @@ kmod-usb-net-ipheth kmod-usb-net-cdc-mbim usbmuxd libusbmuxd-utils libimobiledev
 kmod-usb-net-asix kmod-usb-net-asix-ax88179 kmod-usb-net-dm9601-ether kmod-usb-net-hso kmod-usb-net-kalmia kmod-usb-net-kaweth \
 kmod-usb-net-mcs7830 kmod-usb-net-pegasus kmod-usb-net-pl kmod-usb-net-rtl8150 kmod-usb-net-rtl8152 kmod-usb-net-smsc95xx kmod-usb-net-sr9700" \
 FILES=""
+
+
+~~Paket Paswall
+  dns2socks
+  dns2tcp
+  tcping
+  brook
+  chinadns-ng
+  hysteria
+  naiveproxy
+  shadowsocks-rust-sslocal
+  shadowsocks-rust-ssserver
+  shadowsocks-libev-ssr-local
+  shadowsocks-libev-ssr-redir
+  shadowsocks-libev-ssr-server
+  simple-obfs
+  trojan-plus
+  v2ray-plugin
+  xray-plugin
